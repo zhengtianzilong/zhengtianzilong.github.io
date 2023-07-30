@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/64e805a8.html</loc>
+    <loc>https://zhengtianzilong.github.io/zhengtianzilong.github.io/posts/64e805a8.html</loc>
     
     <lastmod>2023-07-15</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/33db8a3a.html</loc>
+    <loc>https://zhengtianzilong.github.io/zhengtianzilong.github.io/posts/33db8a3a.html</loc>
     
     <lastmod>2023-07-15</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/34afdeeb.html</loc>
+    <loc>https://zhengtianzilong.github.io/zhengtianzilong.github.io/posts/34afdeeb.html</loc>
     
     <lastmod>2023-07-15</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/4a17b156.html</loc>
+    <loc>https://zhengtianzilong.github.io/zhengtianzilong.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2023-07-15</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://zhengtianzilong.github.io/zhengtianzilong.github.io/tags/index.html</loc>
     
     <lastmod>2023-07-15</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://zhengtianzilong.github.io/zhengtianzilong.github.io/categories/index.html</loc>
     
     <lastmod>2023-07-15</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/%E4%BD%A0%E5%A5%BD%E7%9A%84%E6%96%87%E7%AB%A0/index.html</loc>
+    <loc>https://zhengtianzilong.github.io/zhengtianzilong.github.io/%E4%BD%A0%E5%A5%BD%E7%9A%84%E6%96%87%E7%AB%A0/index.html</loc>
     
     <lastmod>2023-07-15</lastmod>
     
@@ -66,7 +66,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://zhengtianzilong.github.io/zhengtianzilong.github.io</loc>
     <lastmod>2023-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -74,14 +74,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/node-js/</loc>
+    <loc>https://zhengtianzilong.github.io/zhengtianzilong.github.io/tags/node-js/</loc>
     <lastmod>2023-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/hexo/</loc>
+    <loc>https://zhengtianzilong.github.io/zhengtianzilong.github.io/tags/hexo/</loc>
     <lastmod>2023-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -90,7 +90,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://zhengtianzilong.github.io/zhengtianzilong.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
