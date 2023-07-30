@@ -1,0 +1,11 @@
+http://example.com/posts/64e805a8.html
+http://example.com/posts/33db8a3a.html
+http://example.com/posts/34afdeeb.html
+http://example.com/posts/4a17b156.html
+http://example.com/tags/index.html
+http://example.com/categories/index.html
+http://example.com/%E4%BD%A0%E5%A5%BD%E7%9A%84%E6%96%87%E7%AB%A0/index.html
+http://example.com/
+http://example.com/tags/node-js/
+http://example.com/tags/hexo/
+http://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
